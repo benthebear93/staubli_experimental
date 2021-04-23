@@ -1,4 +1,4 @@
 <?xml version="1.0"?>
 <launch>
-  <param name="cfrp_description" textfile="$(find staubli_tx90_gazebo)/urdf/CFRP.sdf" />
+  <param name="cfrp_description" textfile="$(find tx90_moveit_config)/urdf/CFRP.urdf" />
 </launch>
